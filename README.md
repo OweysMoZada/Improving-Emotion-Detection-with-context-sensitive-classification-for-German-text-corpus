@@ -1,4 +1,4 @@
-<big><b> Author: Oweys Momenzada </big></b>
+<big><b> Author: Oweys Momenzadas </big></b>
 
 # Improving Emotion Detection with context sensitive classification for German text corpus
 <big><i> FOR DEEPER INSIGHT INTO THE WORK AND APPROACH, ALL NOTEBOOKS ARE WELL DOCUMENTED AND PROVIDED ON THIS GITHUB REPOSITORY. </i></big>
